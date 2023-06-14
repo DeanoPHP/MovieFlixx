@@ -1,0 +1,20 @@
+github commands
+
+$ git init - initialzes Local git repo
+$ git add . - adds all to staging area
+$ git status - displays stutus of working
+$ git commit - commit changes in Index
+
+Remote repo
+$ git push - pushed to remote repo
+$ git pull - pulls latest changes
+$ git clone - clones git repo to own machine
+
+$ git rm - to remove
+
+git remote add origin git@github.com:DeanoPHP/MovieFlixx.git
+git branch -M main
+git push -u origin main
+
+
+
